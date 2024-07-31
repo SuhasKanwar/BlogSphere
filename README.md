@@ -14,7 +14,7 @@
 - `assets/`:
   - `images/`: Contains all the images used in the project.
   - `style_sheets/`:
-  - `Project_007_styles.css`: The main stylesheet for the project, defining the look and feel of the webpage.
+    - `Project_007_styles.css`: The main stylesheet for the project, defining the look and feel of the webpage.
 
 ## CSS Design Principles
 - Base Styles: The * selector ensures consistent margin, padding, and box-sizing across all elements.
@@ -23,4 +23,4 @@
 - Responsive Images: Images within cards are set to cover their containers and scale appropriately based on screen size.
 
 ## Contributors
-Suhas Kanwar
+**Suhas Kanwar**
