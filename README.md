@@ -1,5 +1,7 @@
 # BlogSphere
 
+![Project_007_BlogSphere](https://github.com/user-attachments/assets/cb660877-41d6-4871-9a1f-c4f84597d7b6)
+
 **BlogSphere** is a responsive web application designed to showcase a diverse range of blog articles. It employs a card-based layout that dynamically adjusts to different screen sizes, ensuring an optimal viewing experience across devices. Each card represents a distinct blog post, including an image, title, description, author details, and relevant tags. The site is crafted with HTML and CSS, leveraging modern design principles to enhance user engagement and accessibility.
 
 ## Features
